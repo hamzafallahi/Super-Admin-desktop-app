@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SBS\\source\\repos\\PFA Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|c:\\users\\sbs\\source\\repos\\pfa front\\pfa front\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\courselandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\courselandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\courselandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\courselandingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SBS\\Downloads\\Program (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|C:\\Users\\SBS\\source\\repos\\PFA Front\\pfa front\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95298559-EE57-49E2-BF39-D1050BC68296}|PFA Front\\PFA Front.csproj|solutionrelative:pfa front\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.cs",
+              "RelativeDocumentMoniker": "PFA Front\\login.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.cs",
+              "RelativeToolTip": "PFA Front\\login.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwF8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:46:14.085Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program (2).cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Downloads\\Program (2).cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Program (2).cs",
+              "ToolTip": "C:\\Users\\SBS\\Downloads\\Program (2).cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Program (2).cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:23:16.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "courselandingpage.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\courselandingpage.cs",
+              "RelativeDocumentMoniker": "PFA Front\\courselandingpage.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\courselandingpage.cs",
+              "RelativeToolTip": "PFA Front\\courselandingpage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:24:23.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "courselandingpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\courselandingpage.cs",
+              "RelativeDocumentMoniker": "PFA Front\\courselandingpage.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\courselandingpage.cs [Design]",
+              "RelativeToolTip": "PFA Front\\courselandingpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:15:36.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbconnect.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\dbconnect.cs",
+              "RelativeDocumentMoniker": "PFA Front\\dbconnect.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\dbconnect.cs",
+              "RelativeToolTip": "PFA Front\\dbconnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:23:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.Designer.cs",
+              "RelativeDocumentMoniker": "PFA Front\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.Designer.cs",
+              "RelativeToolTip": "PFA Front\\login.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAtwD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:48:37.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Form1.cs",
+              "RelativeDocumentMoniker": "PFA Front\\Form1.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Form1.cs [Design]",
+              "RelativeToolTip": "PFA Front\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:11:15.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "course.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\course.cs",
+              "RelativeDocumentMoniker": "PFA Front\\course.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\course.cs",
+              "RelativeToolTip": "PFA Front\\course.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAgwM8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:02:28.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\users.cs",
+              "RelativeDocumentMoniker": "PFA Front\\users.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\users.cs",
+              "RelativeToolTip": "PFA Front\\users.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:10:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\admin.cs",
+              "RelativeDocumentMoniker": "PFA Front\\admin.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\admin.cs",
+              "RelativeToolTip": "PFA Front\\admin.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA3wDsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:49:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "course.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\course.cs",
+              "RelativeDocumentMoniker": "PFA Front\\course.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\course.cs [Design]",
+              "RelativeToolTip": "PFA Front\\course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:00:19.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.cs",
+              "RelativeDocumentMoniker": "PFA Front\\login.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\login.cs [Design]",
+              "RelativeToolTip": "PFA Front\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:36:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\profile.cs",
+              "RelativeDocumentMoniker": "PFA Front\\profile.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\profile.cs",
+              "RelativeToolTip": "PFA Front\\profile.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwGgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:47:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addadmin.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\addadmin.cs",
+              "RelativeDocumentMoniker": "PFA Front\\addadmin.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\addadmin.cs",
+              "RelativeToolTip": "PFA Front\\addadmin.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwN8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:20:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\addadmin.cs",
+              "RelativeDocumentMoniker": "PFA Front\\addadmin.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\addadmin.cs [Design]",
+              "RelativeToolTip": "PFA Front\\addadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:20:39.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Form1.cs",
+              "RelativeDocumentMoniker": "PFA Front\\Form1.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Form1.cs",
+              "RelativeToolTip": "PFA Front\\Form1.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAqwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:56:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Program.cs",
+              "RelativeDocumentMoniker": "PFA Front\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\Program.cs",
+              "RelativeToolTip": "PFA Front\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:55:56.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\profile.cs",
+              "RelativeDocumentMoniker": "PFA Front\\profile.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\profile.cs [Design]",
+              "RelativeToolTip": "PFA Front\\profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:16:01.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\users.cs",
+              "RelativeDocumentMoniker": "PFA Front\\users.cs",
+              "ToolTip": "C:\\Users\\SBS\\source\\repos\\PFA Front\\PFA Front\\users.cs [Design]",
+              "RelativeToolTip": "PFA Front\\users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:10:27.312Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

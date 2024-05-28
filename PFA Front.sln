@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFA Front", "PFA Front\PFA Front.csproj", "{95298559-EE57-49E2-BF39-D1050BC68296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95298559-EE57-49E2-BF39-D1050BC68296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95298559-EE57-49E2-BF39-D1050BC68296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95298559-EE57-49E2-BF39-D1050BC68296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95298559-EE57-49E2-BF39-D1050BC68296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29035D5-C680-4DDB-BC26-FA13A95F20D1}
+	EndGlobalSection
+EndGlobal
